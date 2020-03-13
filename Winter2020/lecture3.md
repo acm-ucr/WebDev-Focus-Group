@@ -2,7 +2,7 @@
 
 ## Making a responsive grid layout for your website
 
-Thanks to the magic of HTML5 + CSS3, we can define a responsive grid that reduces down to one column on mobile without writing any special rules for screen sizes. This can be useful if you're trying to make cards that display information but and resize.
+Thanks to the magic of HTML5 + CSS3, we can define a responsive grid that reduces down to one column on mobile without writing any special rules for screen sizes. This can be useful if you're trying to make cards that display information and dynamically resize.
 
 HTML:
 ```
