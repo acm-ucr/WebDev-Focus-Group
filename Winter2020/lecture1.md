@@ -1,5 +1,3 @@
-http://codejeet.github.io/
-http://ajeet.codes/
 
 # How to get set up on Github Pages
 
